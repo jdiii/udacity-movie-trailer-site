@@ -2,7 +2,7 @@ import movie
 import fresh_tomatoes
 
 # define 4 movies to show on the web page
-godfather = movie.Movie('The Godfather', 'When an organized crime boss dies, his son reluctantly takes control of his empire.', 'http://keyartdesigns.com/wp-content/uploads/2010/09/the-godfather-movie-poster-1020243893.jpg', 'https://www.youtube.com/watch?v=vjPmaneLadQ')
+godfather = movie.Movie('The Godfather', 'When an organized crime boss dies, his son reluctantly takes control of his empire.', 'http://keyartdesigns.com/wp-content/uploads/2010/09/the-godfather-movie-poster-1020243893.jpg', 'https://www.youtube.com/watch?v=w0VGcWHkNeA')
 
 breathless =  movie.Movie('A Bout de Souffle', 'Michel and his American girlfriend try to escape from the police.', 'https://upload.wikimedia.org/wikipedia/en/3/3f/%C3%80_bout_de_souffle_%28movie_poster%29.jpg', 'https://www.youtube.com/watch?v=WCDEAu4R8hA')
 
